@@ -1,2 +1,4 @@
-isolinux
 .*.swp
+isolinux
+rpms
+out
